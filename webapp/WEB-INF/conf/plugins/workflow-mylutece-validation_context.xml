@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN" "http://www.springframework.org/dtd/spring-beans.dtd">
+
+<beans>
+ 	<bean id="workflow-mylutece-validation.taskMyluteceValidation" class="fr.paris.lutece.plugins.workflow.business.task.TaskType" >
+     		 <property name="key" value="taskMyluteceValidation" />
+     		 <property name="titleI18nKey" value="module.workflow.taskmylutecevalidation.task_validation_title" />
+    		 <property name="className" value="fr.paris.lutece.plugins.workflow.modules.taskmylutecevalidation.business.TaskMyluteceValidation"/>
+   	  </bean>
+ </beans>
+ 	

@@ -59,6 +59,6 @@
     <scm>
         <connection>scm:svn:http://dev.lutece.paris.fr/svn/lutece/portal/trunk/plugins/directory-form-workflow/module-workflow-mylutece-validation</connection>
         <developerConnection>scm:svn:https://dev.lutece.paris.fr/svn/lutece/portal/trunk/plugins/directory-form-workflow/module-workflow-mylutece-validation</developerConnection>
-        <url>http://dev.lutece.paris.fr/viewvc/portal/trunk/plugins/directory-form-workflow/module-workflow-mylutece-validation</url>
+        <url>http://dev.lutece.paris.fr/viewvc/lutece/portal/trunk/plugins/directory-form-workflow/module-workflow-mylutece-validation</url>
     </scm>
 </project>

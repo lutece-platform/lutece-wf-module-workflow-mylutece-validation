@@ -31,24 +31,17 @@
  *
  * License 1.0
  */
-package fr.paris.lutece.plugins.workflow.modules.taskmylutecevalidation.service;
+package fr.paris.lutece.plugins.workflow.modules.mylutecevalidation.service;
 
 import fr.paris.lutece.portal.service.plugin.PluginDefaultImplementation;
 
 
 /**
  *
- * AutomaticAssignmentPlugin
+ * MyluteceValidationPlugin
  *
  */
 public class MyluteceValidationPlugin extends PluginDefaultImplementation
 {
-    public static final String PLUGIN_NAME = "workflow-mylutece-validation";
-
-    /**
-     * Initialize the module automatic assignment
-     */
-    public void init(  )
-    {
-    }
+    public static final String PLUGIN_NAME = "workflow-mylutecevalidation";
 }

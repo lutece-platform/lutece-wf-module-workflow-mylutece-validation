@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="no"?><plug-in>
     <!-- Plugin Informations -->
-    <name>workflow-mylutece-validation</name>
-    <class>fr.paris.lutece.plugins.workflow.modules.taskmylutecevalidation.service.MyluteceValidationPlugin</class>
+    <name>workflow-mylutecevalidation</name>
+    <class>fr.paris.lutece.plugins.workflow.modules.mylutecevalidation.service.MyluteceValidationPlugin</class>
     <version>2.0.0</version>
     <documentation/>
     <installation/>
     <changes/>
     <user-guide/>
-    <description>module.workflow.taskmylutecevalidation.plugin.description</description>
-    <provider>module.workflow.taskmylutecevalidation.plugin.provider</provider>
+    <description>module.workflow.mylutecevalidation.plugin.description</description>
+    <provider>module.workflow.mylutecevalidation.plugin.provider</provider>
     <provider-url>http://lutece.paris.fr</provider-url>
-    <icon-url>images/admin/skin/plugins/myluteceValidation/myluteceValidation.png</icon-url>
-    <copyright>Copyright 2001-2009 Mairie de Paris</copyright>
+    <icon-url>images/admin/skin/plugins/workflow/workflow.png</icon-url>
+    <copyright>Copyright 2001-2012 Mairie de Paris</copyright>
 	<core-version-dependency>
-		<min-core-version>2.4.0</min-core-version>
+		<min-core-version>3.1.2</min-core-version>
 		<max-core-version/>	
 	</core-version-dependency>
 	

@@ -2,7 +2,7 @@
     <!-- Plugin Informations -->
     <name>workflow-mylutecevalidation</name>
     <class>fr.paris.lutece.plugins.workflow.modules.mylutecevalidation.service.MyluteceValidationPlugin</class>
-    <version>2.0.0</version>
+    <version>2.0.1</version>
     <documentation/>
     <installation/>
     <changes/>

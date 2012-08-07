@@ -47,7 +47,6 @@ import org.apache.commons.lang.StringUtils;
 import java.util.Locale;
 
 import javax.inject.Inject;
-
 import javax.servlet.http.HttpServletRequest;
 
 
@@ -76,7 +75,7 @@ public class TaskMyluteceValidation extends SimpleTask
 
         if ( user != null )
         {
-            user.setActivated( true );
+            user.setStatus( MyluteceDirectoryUser.STATUS_ACTIVATED );
             MyluteceDirectoryUserHome.update( user, myluteceDirectoryPlugin );
         }
     }
